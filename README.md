@@ -16,7 +16,7 @@
 ## :gear: Iniciando back-end
 ```bash
   # Entrar no diretório do back-end:
-  $ cd backend
+  $ cd backend-node
 
   # Instalar as dependências:
   $ yarn
@@ -31,7 +31,7 @@
 ## :computer: Iniciando front-end
 ```bash
   # Entrar no diretório do front-end:
-  $ cd frontend
+  $ cd gobarber-web
 
   # Instalar as dependências:
   $ yarn
@@ -43,7 +43,7 @@
 ## :iphone: Iniciando mobile
 ```bash
   # Entrar no diretório do mobile:
-  $ cd mobile
+  $ cd appgobarber
 
   # Instalar as dependências:
   $ yarn
